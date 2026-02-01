@@ -6,4 +6,4 @@ This page contains the legal documents for the ReceiptMatrix macOS application.
 - [Terms of Service](terms.md)
 
 If you have questions, contact:
-support@yourdomain.com
+support.receiptmatrix@proton.me
