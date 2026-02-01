@@ -52,4 +52,4 @@ These terms may be updated periodically. Continued use of the app after changes 
 
 For questions regarding these terms, contact:
 
-**Email:** support@yourdomain.com
+**Email:** support.receiptmatrix@proton.me
