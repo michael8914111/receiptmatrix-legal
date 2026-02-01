@@ -101,4 +101,4 @@ This policy may be updated from time to time. Updates will be posted on this pag
 
 For privacy questions, contact:
 
-**Email:** support@yourdomain.com
+**Email:** support.receiptmatrix@proton.me
