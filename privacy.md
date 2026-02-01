@@ -4,108 +4,101 @@
 
 ## Overview
 
-ReceiptMatrix is a macOS application for organizing receipts and generating tax-ready reports. Your privacy is a core design principle. ReceiptMatrix is built to operate **entirely on your Mac**, without collecting or transmitting your personal data.
+ReceiptMatrix is a macOS application that helps users organize receipts and generate reports for personal or business use. Privacy is a core principle of ReceiptMatrix. The app is designed to operate locally on your Mac without collecting or transmitting personal data.
 
 ---
 
 ## Data Collection
 
-ReceiptMatrix does **not** collect, transmit, sell, or share personal data.
+ReceiptMatrix does **not** collect, track, sell, or share personal data.
 
 Specifically:
 - No user accounts
-- No analytics or tracking
+- No analytics or telemetry
 - No advertising identifiers
-- No third-party data collection services
+- No third-party tracking services
 
 ---
 
 ## Local Processing
 
-All receipt processing happens locally on your device, including:
+All receipt processing occurs locally on your device, including:
 - Optical character recognition (OCR)
-- Data extraction (vendor, date, totals)
-- Categorization
+- Data extraction (such as dates and totals)
+- Organization and categorization
 - File renaming
-- CSV and PDF report generation
+- Report generation
 
-ReceiptMatrix uses Apple’s on-device frameworks (such as Apple Vision). Receipt data never leaves your Mac.
+Receipt data does not leave your Mac.
 
 ---
 
 ## Data Storage
 
-All data is stored locally within the app’s sandbox on your Mac, including:
-- Imported receipt files
-- Extracted receipt metadata
-- App settings and preferences
+All data is stored locally within the app’s sandboxed storage on your Mac. This may include:
+- Receipt files you import
+- Extracted receipt information
+- App preferences and settings
 
-You retain full control of your data at all times. Deleting the app removes all stored data.
+You control your data at all times. Deleting the app removes its stored data.
 
 ---
 
 ## Folder Access & Permissions
 
-ReceiptMatrix can only access folders that you explicitly select.
+ReceiptMatrix can access only the folders you explicitly choose.
 
-When you add a watched folder or export location:
+When you select a folder:
 - macOS prompts you to grant permission
-- ReceiptMatrix stores a security-scoped bookmark for that folder only
-- Access can be revoked at any time by removing the folder in Settings
+- Access is limited to that specific location
+- You may revoke access at any time within the app or macOS settings
 
 ReceiptMatrix cannot access files or locations you have not approved.
 
 ---
 
-## Background Processing
+## Background Activity
 
-ReceiptMatrix may perform background processing when the app is **running and minimized**, such as:
-- Monitoring user-selected folders
-- Processing newly added receipts
-- Generating scheduled exports
-
-No data is transmitted externally during background processing.
+ReceiptMatrix may perform background tasks while the app is running in order to process receipts or generate exports. Background activity does not involve transmitting data externally.
 
 ---
 
 ## Exports
 
-Exports (CSV or PDF) are generated locally and saved only to folders you choose. ReceiptMatrix does not upload or share exported data.
+Reports and exports are generated locally and saved only to locations you choose. ReceiptMatrix does not upload or share exported data.
 
 ---
 
 ## Purchases
 
-ReceiptMatrix uses Apple’s App Store in-app purchase system to manage subscriptions and free trials. All payment processing is handled by Apple. ReceiptMatrix does not receive or store payment information.
+ReceiptMatrix uses Apple’s App Store in-app purchase system for subscriptions and trials. All payment handling is performed by Apple. ReceiptMatrix does not receive or store payment information.
 
 ---
 
-## Network Access
+## Network Usage
 
-ReceiptMatrix does not send receipt data or personal information over the network.
+ReceiptMatrix does not transmit receipt data or personal information over the network.
 
 Internet access may be used only for:
-- App Store subscription validation
-- App Store updates
-
-No receipt content or user data is transmitted during these operations.
+- App Store purchase validation
+- App updates through the Mac App Store
 
 ---
 
 ## Data Deletion
 
-You can delete receipts at any time within the app. You may also remove all stored data by deleting the application from your Mac.
+You may delete receipts at any time within the app. Removing the application from your Mac deletes all locally stored app data.
 
 ---
 
 ## Changes to This Policy
 
-This privacy policy may be updated as the app evolves. Updates will be posted on this page with a revised date.
+This policy may be updated from time to time. Updates will be posted on this page with a revised date.
 
 ---
 
 ## Contact
 
-If you have questions about privacy or data handling, contact:
+For privacy questions, contact:
 
 **Email:** support@yourdomain.com
